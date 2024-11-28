@@ -1,0 +1,7 @@
+Level: 1, Time: 145 seconds
+
+Level: 1, Time: 68 seconds
+Level: 1, Time: 46 seconds
+Level: 1, Time: 23 seconds
+Level: 1, Time: 48 seconds
+Level: 1, Time: 55 seconds
